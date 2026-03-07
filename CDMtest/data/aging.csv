@@ -1,0 +1,2 @@
+﻿query_id,USUBJID,table,field,new_status,creation_date,days_open,aging_category,note
+Q000050,STUDY001-S002-0079,AE,AEENDTC,Answered,2025-07-01 14:06:00,45,>30 Days,"Site reply: Verified in source data, no change needed / 已核对原始资料，数据无误 | Proposed value: nan"
