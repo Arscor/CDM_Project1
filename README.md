@@ -70,11 +70,11 @@
 * `query\_log.csv`：query 汇总日志
 * `query\_event\_log.csv`：query 事件日志
 * `aging.csv`：aging 统计结果
-* `cycle time.csv`：cycle time 统计结果
-* `sited log.csv` / 其他 site 相关文件：站点维度统计过程文件
+* `cycle_time.csv`：cycle_time 统计结果
+* `sited_log.csv` / 其他 site 相关文件：站点维度统计过程文件
 * `aging.py`：aging 相关处理脚本
-* `cycle time.py`：cycle time 相关处理脚本
-* `sited log.py` / `sited summary.py`：site 维度汇总脚本
+* `cycle_time.py`：cycle_time 相关处理脚本
+* `sited_log.py` / `sited_summary.py`：site 维度汇总脚本
 * `dashboard.xlsx`：报表结果
 
 说明：  
